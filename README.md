@@ -15,3 +15,5 @@ This is a magisk/KSU module. With this you can get unlimited photo and video bac
 -  Open magisk app & enter module tab
 -  Select the magisk zip file
 -  Then flash.
+
+<a href="https://t.me/cloudpitchblack"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
