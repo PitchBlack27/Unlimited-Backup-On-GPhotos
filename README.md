@@ -7,6 +7,7 @@ This is a magisk/KSU module. With this you can get unlimited photo and video bac
 - Android 4 +
 - Rooted Rom
 - Magisk app / KernelSU
+- Zygisk Enabled
 
 **How to do this**
 
